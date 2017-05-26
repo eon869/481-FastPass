@@ -1,2 +1,2 @@
-# CPSC481-2017S Project Template
+# CPSC481-2017S FastPass
 CPSC 481 - 2017S
